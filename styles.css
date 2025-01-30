@@ -1,7 +1,9 @@
 table {
     border: 1px solid;
-    background-color: rgb(11, 94, 11);
+    background-color: rgb(0, 0, 0);
     color: blanchedalmond; /* betűszín */
     font-family: 'Courier New'; /* betűtípus */
     font-size: larger; /* betűméret */
   }
+
+  td {background-color: grey;}
