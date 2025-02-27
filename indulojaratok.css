@@ -1,7 +1,19 @@
 table {
-    border: 1px solid;
-    background-color: blue;
-    color:blanchedalmond; /* betűszín */
+    border: 2px solid;
+    background-color: rgb(95, 38, 11);
+    color: black; /* betűszín */
     font-family:'Courier New'; /* betűtipus */
     font-size:larger; /*betűméret */
+}
+#keso_indulo_vonat {
+    background-color: red;
+}
+tbody {
+    background-color: chocolate;
+}
+tbody tr:nth-child(even) {
+    background-color: bisque;
+}
+th {
+    background-color: gray;
 }
